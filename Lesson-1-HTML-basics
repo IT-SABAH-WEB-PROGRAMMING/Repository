@@ -1,0 +1,18 @@
+HTML useful main topics
+-doctype, meta, meta+charset,lang,
+-html,head, title, h123456,p, body,  br, strong,comment
+-a+href+target+_blank+id, 
+-img+src+title+alt, 
+-HTML File Paths, 
+-style attribute,style tag,  
+-table, tr, td, thead, tbody, tfoot, th, 
+-ul, li, 
+-div, nav, section, iframe, 
+-form 
++type
+++input+radio+checkbox+text+submit+select+option+textarea
+--attribute
+++name+value+id+selected+checked+readonly+disabled+autofocus+required+size+maxlength+min+max+multiple+pattern+placeholder++rows+cols+step
+++label,for
+-HTML Input Types,
+-canvas  youtube, audio, video.
