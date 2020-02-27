@@ -1,0 +1,9 @@
+-id, class, tag, id, direct
+-text-align,margin, padding, text-decoration,text-transform,line-height,
+-color, border, height, width, display-block-none-inline, -float-left-right,
+-positon-fixed,positon-absolute,
+-backgorund-color,background-image,background-repeat, background-size,   
+-font-family, font-size, font-face, font-weight,max-width
+-a:hover,a:visited,a:link, list-style-type, border-collapse, -vertical-align,z-index,left,right,bottom,top, overflow,opacity,
+-forms,px-em-rem
+-comment, font-awesome icons
